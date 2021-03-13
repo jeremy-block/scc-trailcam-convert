@@ -1,0 +1,19 @@
+{
+  "name": "scc-trailcam-converter",
+  "version": "0.1.0",
+  "description": "a miniature utility for the camera in the SCC that converts the captured metadata and file name from our trail camera and generates an csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-block/scc-trailcam-converter.git"
+  },
+  "author": "Jeremy E. Block",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremy-block/scc-trailcam-converter/issues"
+  },
+  "homepage": "https://github.com/jeremy-block/scc-trailcam-converter#readme"
+}
